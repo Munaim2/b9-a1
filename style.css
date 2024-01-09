@@ -1,0 +1,491 @@
+
+
+.hading-sub {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main-hadding {
+    width: 632px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    /* 131.944% */
+}
+
+.cover {
+    background-image: url('Banner Image.png');
+    border-radius: 16px;
+    height: 600px;
+    width: 1320px;
+    position: relative;
+    margin: 0 auto;
+
+}
+
+.gradient {
+    border-radius: 16px;
+    top: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to right, black, transparent);
+}
+
+.hadding {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    left: 630px;
+    top: 170px;
+
+}
+
+.offer {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.offer-second-hadding {
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.offer-therd-hadding {
+    color: #070211;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.offer-img {
+    padding: 0px 500px;
+}
+
+.welcome {
+    background-image: url('Vectorrr.png');
+    background-repeat: no-repeat;
+    display: flex;
+    margin: 120px 250px;
+    justify-items: center;
+
+}
+
+.newyear {
+    width: 319.83px;
+    height: 464.662px;
+    padding: 66px 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.welcome-hading {
+    width: 642px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+}
+
+.join-now {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.welcome-p {
+    color: rgba(255, 255, 255, 0.80);
+
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+}
+
+.second-cover {
+    justify-content: center;
+    padding: 126px;
+    width: 600px;
+}
+
+
+.place-section {
+    width: 1320px;
+    height: 482px;
+    background: rgb(255, 0, 0);
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.2553396358543417) 0%, rgba(255, 255, 255, 1) 100%);
+    margin: 0px auto;
+    justify-content: center;
+    justify-items: center;
+}
+
+.place {
+    padding-top: 140px;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+
+}
+
+.red-color {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    /* 175% */
+    text-transform: capitalize;
+}
+
+.place h3 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.place-join-now {
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    border: none;
+}
+
+.box {
+    border-radius: 25px 0px 0px 25px;
+    width: 648px;
+    height: 66px;
+    padding-left: 0;
+    margin-left: 200px;
+    position: relative;
+}
+
+.click {
+    border-radius: 0px 25px 25px 0px;
+    width: 200px;
+    height: 72px;
+    position: absolute;
+    margin-left: -5px;
+    background-color: #F00;
+    color: #FFF;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+
+}
+
+.sub-new {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.sub-p {
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    padding-left: 220px;
+    /* 160% */
+}
+
+.main-sub {
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 616px;
+    justify-content: center;
+    justify-items: center;
+    margin: 0px auto;
+}
+
+.img-sub {
+    width: 150px;
+    height: 150px;
+    padding-left: 585px;
+    padding-top: 80px;
+}
+
+.location {
+    background: #070211;
+    height: 609px;
+}
+
+.p-location {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+    height: 80px;
+    width: 375px;
+}
+
+.phone {
+
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+
+
+}
+
+.flax {
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 219px 0px 219px;
+}
+
+.hr {
+    width: 1500px;
+
+    position: relative;
+
+}
+
+.icon {
+    padding: 48px 0px 48px 800px;
+    gap: 2px;
+}
+
+.copyright {
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 300px;
+    font-size: 24px;
+}
+
+.product {
+    margin: 0px 300px;
+}
+
+.product-hadding {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.product-h1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.product-p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    
+    /* 160% */
+}
+.comming-soon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 350px;
+}
+.year{
+    color: #F00;
+
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.year-p{
+    width: 276px;
+color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+
+.new-best-offer{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.coming{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.coming-description{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+
+.new-year{
+    border-radius: 100%;
+   padding: 15px;
+    border: 15px solid #F00;
+    margin: 50px;
+}
+
+.functional{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.holidays-sale{
+    color: #F00;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+
+}
+
+.holiday-sale-discription{
+    width: 900px;
+color: rgba(7, 2, 17, 0.60);
+margin-left: 350px;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+}
+
+.rad-offer{
+    display: flex;
+}
+
+.top{
+    margin-bottom: 150px;
+}
+
+.holiday-sale-hadding{
+    width: 1320px;
+
+    justify-content: center;
+    justify-items: center;
+    margin: 0px 140px;
+    position: relative;
+
+}
+.box{
+   margin: 0px 0px 200px 80px;
+}
+.rad-bar{
+    margin-left: 130px;
+    margin-bottom: 100px;
+    
+}
+.ladis{
+    position: absolute;
+    right: 0px;
+    bottom: 229px;
+    width: 429px;
+height: 433px;
+
+}
+
+.z-index{
+    z-index: 1;
+}
+
